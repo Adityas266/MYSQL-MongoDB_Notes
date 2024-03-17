@@ -1,9 +1,16 @@
-# MongoDB Notes
+# MYSQL & MongoDB Notes
 
-📚 This repository contains notes, tutorials, and examples related to MongoDB, a popular NoSQL database. Whether you're just getting started with MongoDB or looking to deepen your understanding, you'll find resources here to help you on your journey.
+📚 This repository contains notes, tutorials, and examples related to MYSQL, a popular relational database management system, and MongoDB, a widely-used NoSQL database. Whether you're just getting started or looking to deepen your understanding, you'll find resources here to help you on your journey.
 
 ## Table of Contents
 
+- [Introduction to MYSQL](#introduction-to-mysql)
+- [Installation](#installation)
+- [Basic Concepts](#basic-concepts)
+- [Querying Data](#querying-data)
+- [Data Modeling](#data-modeling)
+- [Security](#security)
+- [Tools](#tools)
 - [Introduction to MongoDB](#introduction-to-mongodb)
 - [Installation](#installation)
 - [Basic Concepts](#basic-concepts)
@@ -16,6 +23,34 @@
 - [Tools](#tools)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Introduction to MYSQL
+
+🌟 MYSQL is a popular relational database management system known for its reliability, scalability, and ease of use.
+
+## Installation
+
+🚀 Get started with installing MYSQL on your preferred operating system. Follow the official MYSQL documentation for detailed installation instructions.
+
+## Basic Concepts
+
+📝 Learn the fundamentals of MYSQL, including databases, tables, columns, and SQL syntax. Familiarize yourself with basic operations such as SELECT, INSERT, UPDATE, and DELETE.
+
+## Querying Data
+
+🔍 Explore different querying techniques in MYSQL, including filtering, sorting, joining tables, and performing aggregate functions.
+
+## Data Modeling
+
+🔧 Dive into best practices for data modeling in MYSQL. Learn how to design efficient schemas and establish relationships between tables.
+
+## Security
+
+🔒 Ensure the security of your MYSQL database by implementing authentication, authorization, and encryption mechanisms.
+
+## Tools
+
+🛠️ Discover tools and utilities for working with MYSQL, including the MYSQL command-line interface, GUI clients, and administration tools.
 
 ## Introduction to MongoDB
 
@@ -61,3 +96,6 @@
 
 🤝 Contributions to this repository are welcome! Whether you want to fix a typo, add a new section, or improve existing content, feel free to submit a pull request.
 
+## License
+
+📄 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the content as per your needs.
